@@ -1,0 +1,13 @@
+flask
+binance
+python-binance
+ta-lib
+pandas
+numpy
+scikit-learn
+xgboost
+ta
+joblib
+requests
+openai
+google-generativeai
